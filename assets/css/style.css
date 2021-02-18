@@ -55,8 +55,8 @@ a {
 p {
     font-size: 16px;
 }
-/* Hero Div Style */
-.hero {
+/* Hero Figure Style */
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
